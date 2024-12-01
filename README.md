@@ -22,6 +22,5 @@ A computer vision-based Dino game controller using hand gestures and Mediapipe.
 3. Run the script:
    ```bash
      python GestureDinoGame.py
-
-
+   ```
 
