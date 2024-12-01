@@ -1,0 +1,4 @@
+cvzone
+pyautogui
+numpy
+mediapipe
